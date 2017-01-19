@@ -1,0 +1,24 @@
+h1 {
+  text-align: center;
+  font-family: 'Gloria Hallelujah', cursive;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: #2a2f8a;
+  color: #d0a94d;
+}
+.logo {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.schedule {
+  text-align: center;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 20px;
+  color: #2a2f8a;
+}
+.roster {
+  text-align: center;
+  font-family: 'Gloria Hallelujah', cursive;
+  font-size: 20px;
+  color: #2a2f8a;
+}
