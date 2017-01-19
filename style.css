@@ -1,14 +1,21 @@
 h1 {
   text-align: center;
   font-family: 'Gloria Hallelujah', cursive;
-  padding-top: 30px;
-  padding-bottom: 30px;
-  background-color: #2a2f8a;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: #2a2f8a;
+}
+h2 {
+  text-align: center;
+  font-family: 'Gloria Hallelujah', cursive;
   color: #d0a94d;
 }
-.logo {
-  padding-top: 30px;
-  padding-bottom: 30px;
+.jumbotron {
+  background-image:url('superbowlchamps.jpg');
+  height:300px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  border-bottom:1px solid #ff6a00
 }
 .schedule {
   text-align: center;
